@@ -1,6 +1,6 @@
 # Trabalho Prog_web
 ## criando um site para um consultorio de estética
-- ## Requistos
+- ## Requisitos
     * ### **```CRUD```**
     * ### **```Navegar entre as tarefas```**
     * ### **```Agendar de consultas```**
