@@ -9,7 +9,7 @@
 
 ## Descrição de requisitos
 * ### **```CRUD```**
-    * Criar usuarios e serviços, busca-lo e poder exclui-lo.
+    * Criar usuarios e serviços, busca-los e poder exclui-los.
 * ### **```Navegar entre as tarefas```**
     * Criar uma barra de navegação apresentando as tarefas sendo elas:
         * ```login```;
