@@ -18,7 +18,7 @@
         * ```planos```;
         * ```informações do esteticista```.
 * ### **```Agendar de consultas```**
-    * Criar uma agenda semanal onde pode ver os horarios disponiveis para o agendamento dos pacientes.
+    * Criar uma agenda semanal onde os usuarios podem ver os horarios disponiveis para o agendamento.
 * ### **```Apresentar os tipos de planos```**
     * Criar uma pagina onde apresenta os planos de tratamentos da estética.
 * ### **```Informar a localização```**
